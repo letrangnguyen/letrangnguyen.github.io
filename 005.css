@@ -1,7 +1,7 @@
 .container{
     max-width: 900px;
     border:0px solid #ddd;
-    margin: 0 auto;}
+    margin: 50px auto;}
 
 .intro{max-width: 600px;margin-left:20px;color: dimgray}
 /*header*/
