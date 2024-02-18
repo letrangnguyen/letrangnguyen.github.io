@@ -40,7 +40,7 @@
 .modal-content
 {
   background-color: #fefefe;
-  margin: 2% auto; /* 15% from the top and centered */
+  margin: 3% auto; /* 15% from the top and centered */
   padding: 3px;
   border: 1px solid #888;
   width: 100%; /* Could be more or less, depending on screen size */
