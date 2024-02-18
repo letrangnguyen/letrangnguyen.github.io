@@ -1,0 +1,71 @@
+.container{
+    max-width: 900px;
+    border:0px solid #ddd;
+    margin: 50px auto;}
+.footer{list-style: none;margin-left: 20px;margin-top:50px;}
+.footer img{width:12%;display: inline-block;margin-top:20px;}
+.footer p{margin-left:10px;margin-top: 0px; float:center;color:dimgray;}
+/*header*/
+#nav ul{list-style:none;margin:0 auto;display:block;    
+                }
+#nav li{float:left;padding:0 10px;margin: 2px;background-color: darkgrey;    
+                }
+#nav li a{text-decoration: none;font-size:1em;color:white;}
+#nav li a:hover{color:black;}
+/*table*/
+ #section {float:center;background-color: none;margin: 50px 0 0 50px;
+        }
+#table{max-width: 80%;border: 0px solid;margin-left: 0px;font-family: monospace;
+        }
+#table tr td{text-align: left;background-color: whitesmoke;
+        }
+
+/*Modal*/
+.myBtn:hover{opacity: 0.7;cursor: pointer;}
+.modal,
+    .modal2,
+    .modal3 {
+      display: none; /* Hidden by default */
+      position: fixed; /* Stay in place */
+      z-index: 1; /* Sit on top */
+      left: 0;
+      top: 0;
+      width: 100%; /* Full width */
+      height: 100%; /* Full height */
+      overflow: auto; /* Enable scroll if needed */
+      background-color: rgb(0, 0, 0); /* Fallback color */
+      background-color: rgba(0, 0, 0, 0.8); /* Black w/ opacity */
+    }
+
+.modal-content
+{
+  background-color: #fefefe;
+  margin: 2% auto; /* 15% from the top and centered */
+  padding: 3px;
+  border: 1px solid #888;
+  width: 100%; /* Could be more or less, depending on screen size */
+  position: relative;
+}
+ 
+.close {
+  color: grey;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  margin-right: 30px;
+  font-size: 28px;
+  font-weight: bold;
+  z-index: 15;
+}
+.close:hover {color: #000;text-decoration: none;padding: 0px;cursor: pointer;}
+
+.modal-body {padding: 2px 10px;box-sizing: border-box;}
+
+img {
+  vertical-align: middle;margin: auto;
+  display: block;
+  width: 100%;
+  max-width: 1200px;}
+
+.note {background-color: white;text-align: center;}
+.note p{color:darkgrey;}
