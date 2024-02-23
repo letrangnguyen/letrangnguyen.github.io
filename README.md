@@ -3,4 +3,4 @@
 <br>
 <p style="font-family: monospace;font-size:1em">And everywhere you look all you see is hatred, and darkness, death and fear.</p>
 <br>
-<p style="font-family: monospace;font-size:1em">But if you follow me<br>maybe you'll see<br>that love <br>is everywhere.</p>
+<p style="font-family: monospace;font-size:1em">But if you follow me<br>maybe you'll see<br>that love <br><br>is everywhere.</p>
